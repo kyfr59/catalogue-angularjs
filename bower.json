@@ -1,0 +1,21 @@
+{
+  "name": "Catalogue angularJs",
+  "version": "0.0.1",
+  "homepage": "https://github.com/kyfr59/catalogue-angularjs",
+  "authors": [
+    "Franck Dupont <kyfr59@gmail.com>"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular": "1.2.x",
+    "angular-mocks": "~1.2.x",
+    "jquery": "1.10.2",
+    "bootstrap": "~3.1.1",
+    "angular-animate": "1.2.23",
+    "angular-resource": "1.2.23",
+    "angular-route": "1.2.23"
+  }
+}
